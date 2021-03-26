@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on App component should render app correctly 1`] = `
+<div>
+  <div>
+    <h1>
+      Breaking bad API
+    </h1>
+    <div>
+      <h2>
+        <b>
+          Jesse Pinkman
+        </b>
+      </h2>
+      <p>
+        You forgot your ice trays! YOU'RE GONNA NEED THE ICE TRAYS!
+      </p>
+    </div>
+    <div>
+      <h2>
+        <b>
+          Walter White (Heisenberg)
+        </b>
+      </h2>
+      <img
+        alt="character"
+        src="https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_walter-white-lg.jpg"
+        style="width: 15%;"
+      />
+      <p>
+        High School Chemistry Teacher
+        Meth King Pin
+      </p>
+    </div>
+  </div>
+</div>
+`;
